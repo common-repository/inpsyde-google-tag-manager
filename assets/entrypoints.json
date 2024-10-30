@@ -1,0 +1,12 @@
+{
+  "entrypoints": {
+    "inpsyde-google-tag-manager-admin": {
+      "css": [
+        "/assets/inpsyde-google-tag-manager-admin.css"
+      ],
+      "js": [
+        "/assets/inpsyde-google-tag-manager-admin.js"
+      ]
+    }
+  }
+}
